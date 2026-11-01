@@ -1,0 +1,14 @@
+{
+ "campaign": "video",
+ "kind": "tc",
+ "dataset": "video:hall_monitor",
+ "p": 0.3,
+ "trial": 0,
+ "iters": 500,
+ "tol": 1e-05,
+ "record_every": 10,
+ "transform": "DCT",
+ "method": "apgd",
+ "rank": 2,
+ "name": "dvideo_hall_monitor-p0.3-t0-mapgd-TDCT-r2"
+}

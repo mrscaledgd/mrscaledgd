@@ -1,0 +1,23 @@
+{
+ "campaign": "phase",
+ "kind": "tc",
+ "n1": 60,
+ "n2": 60,
+ "n3": 12,
+ "transform": "DFT",
+ "profile": "uniform",
+ "r": 6,
+ "kappa": 5.0,
+ "p": 0.1,
+ "trial": 4,
+ "iters": 1000,
+ "tol": 1e-10,
+ "record_every": 50,
+ "method": "scaledgd",
+ "damping": "leak",
+ "c_lam": 1.0,
+ "realloc_every": 20,
+ "realloc_until": 200,
+ "oracle_budget": true,
+ "name": "mmrscaledgd-TDFT-Puniform-p0.1-t4"
+}

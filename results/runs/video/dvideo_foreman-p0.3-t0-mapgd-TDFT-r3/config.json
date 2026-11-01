@@ -1,0 +1,14 @@
+{
+ "campaign": "video",
+ "kind": "tc",
+ "dataset": "video:foreman",
+ "p": 0.3,
+ "trial": 0,
+ "iters": 500,
+ "tol": 1e-05,
+ "record_every": 10,
+ "transform": "DFT",
+ "method": "apgd",
+ "rank": 3,
+ "name": "dvideo_foreman-p0.3-t0-mapgd-TDFT-r3"
+}

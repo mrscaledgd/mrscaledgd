@@ -1,0 +1,14 @@
+{
+ "campaign": "video",
+ "kind": "tc",
+ "dataset": "video:carphone",
+ "p": 0.3,
+ "trial": 0,
+ "iters": 500,
+ "tol": 1e-05,
+ "record_every": 10,
+ "transform": "DFT",
+ "method": "tctf",
+ "r0": 10,
+ "name": "dvideo_carphone-p0.3-t0-mtctf-TDFT-r10"
+}

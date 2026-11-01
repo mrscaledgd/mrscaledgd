@@ -1,0 +1,10 @@
+# downloaded by scripts/get_data.sh (a directory, or a link to one)
+/data
+# outputs of a rerun (scripts/run_campaign.py --out default)
+/out
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/

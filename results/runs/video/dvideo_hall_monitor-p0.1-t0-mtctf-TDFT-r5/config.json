@@ -1,0 +1,14 @@
+{
+ "campaign": "video",
+ "kind": "tc",
+ "dataset": "video:hall_monitor",
+ "p": 0.1,
+ "trial": 0,
+ "iters": 500,
+ "tol": 1e-05,
+ "record_every": 10,
+ "transform": "DFT",
+ "method": "tctf",
+ "r0": 5,
+ "name": "dvideo_hall_monitor-p0.1-t0-mtctf-TDFT-r5"
+}

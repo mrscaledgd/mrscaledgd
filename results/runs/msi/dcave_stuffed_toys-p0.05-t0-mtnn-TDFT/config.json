@@ -1,0 +1,13 @@
+{
+ "campaign": "msi",
+ "kind": "tc",
+ "dataset": "cave:stuffed_toys",
+ "p": 0.05,
+ "trial": 0,
+ "iters": 500,
+ "tol": 1e-08,
+ "record_every": 10,
+ "transform": "DFT",
+ "method": "tnn",
+ "name": "dcave_stuffed_toys-p0.05-t0-mtnn-TDFT"
+}

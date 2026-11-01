@@ -1,0 +1,19 @@
+{
+ "campaign": "spurious",
+ "kind": "tc",
+ "n1": 100,
+ "n2": 100,
+ "n3": 20,
+ "transform": "DCT",
+ "profile": "linear",
+ "r": 10,
+ "kappa": 10.0,
+ "p": 0.3,
+ "trial": 2,
+ "iters": 400,
+ "record_every": 2,
+ "spurious": true,
+ "method": "scaledgd",
+ "rank": 10,
+ "name": "mscaledgd-TDCT-t2"
+}

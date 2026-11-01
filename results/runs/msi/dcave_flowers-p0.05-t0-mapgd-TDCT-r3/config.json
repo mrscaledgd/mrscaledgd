@@ -1,0 +1,14 @@
+{
+ "campaign": "msi",
+ "kind": "tc",
+ "dataset": "cave:flowers",
+ "p": 0.05,
+ "trial": 0,
+ "iters": 500,
+ "tol": 1e-05,
+ "record_every": 10,
+ "transform": "DCT",
+ "method": "apgd",
+ "rank": 3,
+ "name": "dcave_flowers-p0.05-t0-mapgd-TDCT-r3"
+}

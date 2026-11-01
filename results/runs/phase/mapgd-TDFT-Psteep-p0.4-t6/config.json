@@ -1,0 +1,19 @@
+{
+ "campaign": "phase",
+ "kind": "tc",
+ "n1": 60,
+ "n2": 60,
+ "n3": 12,
+ "transform": "DFT",
+ "profile": "steep",
+ "r": 6,
+ "kappa": 5.0,
+ "p": 0.4,
+ "trial": 6,
+ "iters": 1000,
+ "tol": 1e-10,
+ "record_every": 50,
+ "method": "apgd",
+ "rank": 6,
+ "name": "mapgd-TDFT-Psteep-p0.4-t6"
+}

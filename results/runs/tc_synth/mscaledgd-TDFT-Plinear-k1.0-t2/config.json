@@ -1,0 +1,18 @@
+{
+ "campaign": "tc_synth",
+ "kind": "tc",
+ "n1": 100,
+ "n2": 100,
+ "n3": 20,
+ "transform": "DFT",
+ "profile": "linear",
+ "r": 10,
+ "kappa": 1.0,
+ "p": 0.3,
+ "trial": 2,
+ "iters": 600,
+ "record_every": 1,
+ "method": "scaledgd",
+ "rank": 10,
+ "name": "mscaledgd-TDFT-Plinear-k1.0-t2"
+}

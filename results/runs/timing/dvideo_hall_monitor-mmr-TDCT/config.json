@@ -1,0 +1,17 @@
+{
+ "campaign": "timing",
+ "kind": "tc",
+ "dataset": "video:hall_monitor",
+ "p": 0.2,
+ "trial": 0,
+ "iters": 500,
+ "tol": 1e-05,
+ "record_every": 10,
+ "transform": "DCT",
+ "method": "scaledgd",
+ "realloc_every": 20,
+ "realloc_until": 200,
+ "c_floor": 2.0,
+ "rank_equiv": 20,
+ "name": "dvideo_hall_monitor-mmr-TDCT"
+}

@@ -1,0 +1,14 @@
+{
+ "campaign": "video",
+ "kind": "tc",
+ "dataset": "video:coastguard",
+ "p": 0.2,
+ "trial": 0,
+ "iters": 500,
+ "tol": 1e-05,
+ "record_every": 10,
+ "transform": "DFT",
+ "method": "scaledgd",
+ "rank": 8,
+ "name": "dvideo_coastguard-p0.2-t0-mscaledgd-TDFT-r8"
+}

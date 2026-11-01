@@ -1,0 +1,21 @@
+{
+ "campaign": "phase",
+ "kind": "tc",
+ "n1": 60,
+ "n2": 60,
+ "n3": 12,
+ "transform": "DFT",
+ "profile": "linear",
+ "r": 6,
+ "kappa": 5.0,
+ "p": 0.05,
+ "trial": 1,
+ "iters": 1000,
+ "tol": 1e-10,
+ "record_every": 50,
+ "method": "scaledgd",
+ "realloc_every": 20,
+ "realloc_until": 200,
+ "oracle_budget": true,
+ "name": "mmr-TDFT-Plinear-p0.05-t1"
+}

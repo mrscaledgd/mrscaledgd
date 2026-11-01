@@ -1,0 +1,19 @@
+{
+ "campaign": "sensing",
+ "kind": "sensing",
+ "n1": 16,
+ "n2": 16,
+ "n3": 8,
+ "transform": "DFT",
+ "profile": "lowpass",
+ "r": 4,
+ "kappa": 5.0,
+ "m": 800,
+ "trial": 4,
+ "iters": 500,
+ "tol": 1e-10,
+ "record_every": 25,
+ "method": "scaledgd",
+ "rank": 4,
+ "name": "mscaledgd-Plowpass-M800-t4"
+}

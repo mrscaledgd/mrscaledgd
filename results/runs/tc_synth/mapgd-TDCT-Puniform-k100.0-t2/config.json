@@ -1,0 +1,18 @@
+{
+ "campaign": "tc_synth",
+ "kind": "tc",
+ "n1": 100,
+ "n2": 100,
+ "n3": 20,
+ "transform": "DCT",
+ "profile": "uniform",
+ "r": 10,
+ "kappa": 100.0,
+ "p": 0.3,
+ "trial": 2,
+ "iters": 600,
+ "record_every": 1,
+ "method": "apgd",
+ "rank": 10,
+ "name": "mapgd-TDCT-Puniform-k100.0-t2"
+}

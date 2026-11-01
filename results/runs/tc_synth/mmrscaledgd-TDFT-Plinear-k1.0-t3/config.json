@@ -1,0 +1,22 @@
+{
+ "campaign": "tc_synth",
+ "kind": "tc",
+ "n1": 100,
+ "n2": 100,
+ "n3": 20,
+ "transform": "DFT",
+ "profile": "linear",
+ "r": 10,
+ "kappa": 1.0,
+ "p": 0.3,
+ "trial": 3,
+ "iters": 600,
+ "record_every": 1,
+ "method": "scaledgd",
+ "damping": "leak",
+ "c_lam": 1.0,
+ "realloc_every": 20,
+ "realloc_until": 200,
+ "oracle_budget": true,
+ "name": "mmrscaledgd-TDFT-Plinear-k1.0-t3"
+}

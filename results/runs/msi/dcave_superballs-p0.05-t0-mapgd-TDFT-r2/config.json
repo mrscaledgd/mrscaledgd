@@ -1,0 +1,14 @@
+{
+ "campaign": "msi",
+ "kind": "tc",
+ "dataset": "cave:superballs",
+ "p": 0.05,
+ "trial": 0,
+ "iters": 500,
+ "tol": 1e-05,
+ "record_every": 10,
+ "transform": "DFT",
+ "method": "apgd",
+ "rank": 2,
+ "name": "dcave_superballs-p0.05-t0-mapgd-TDFT-r2"
+}

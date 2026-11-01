@@ -1,0 +1,14 @@
+{
+ "campaign": "video",
+ "kind": "tc",
+ "dataset": "video:akiyo",
+ "p": 0.2,
+ "trial": 0,
+ "iters": 500,
+ "tol": 1e-05,
+ "record_every": 10,
+ "transform": "DCT",
+ "method": "scaledgd",
+ "rank": 1,
+ "name": "dvideo_akiyo-p0.2-t0-mscaledgd-TDCT-r1"
+}

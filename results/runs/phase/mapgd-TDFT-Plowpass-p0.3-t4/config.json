@@ -1,0 +1,19 @@
+{
+ "campaign": "phase",
+ "kind": "tc",
+ "n1": 60,
+ "n2": 60,
+ "n3": 12,
+ "transform": "DFT",
+ "profile": "lowpass",
+ "r": 6,
+ "kappa": 5.0,
+ "p": 0.3,
+ "trial": 4,
+ "iters": 1000,
+ "tol": 1e-10,
+ "record_every": 50,
+ "method": "apgd",
+ "rank": 6,
+ "name": "mapgd-TDFT-Plowpass-p0.3-t4"
+}

@@ -1,0 +1,21 @@
+{
+ "campaign": "sensing",
+ "kind": "sensing",
+ "n1": 16,
+ "n2": 16,
+ "n3": 8,
+ "transform": "DFT",
+ "profile": "linear",
+ "r": 4,
+ "kappa": 5.0,
+ "m": 400,
+ "trial": 1,
+ "iters": 500,
+ "tol": 1e-10,
+ "record_every": 25,
+ "method": "scaledgd",
+ "realloc_every": 20,
+ "realloc_until": 200,
+ "oracle_budget": true,
+ "name": "mmr-Plinear-M400-t1"
+}

@@ -1,0 +1,14 @@
+{
+ "campaign": "msi",
+ "kind": "tc",
+ "dataset": "cave:balloons",
+ "p": 0.1,
+ "trial": 0,
+ "iters": 500,
+ "tol": 1e-05,
+ "record_every": 10,
+ "transform": "DFT",
+ "method": "apgd",
+ "rank": 2,
+ "name": "dcave_balloons-p0.1-t0-mapgd-TDFT-r2"
+}

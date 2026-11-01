@@ -1,0 +1,14 @@
+{
+ "campaign": "timing",
+ "kind": "tc",
+ "dataset": "video:coastguard",
+ "p": 0.2,
+ "trial": 0,
+ "iters": 500,
+ "tol": 1e-05,
+ "record_every": 10,
+ "transform": "DFT",
+ "method": "tctf",
+ "r0": 10,
+ "name": "dvideo_coastguard-mtctf-TDFT-r10"
+}

@@ -1,0 +1,14 @@
+{
+ "campaign": "hsi",
+ "kind": "tc",
+ "dataset": "dcmall:256:191",
+ "p": 0.2,
+ "trial": 0,
+ "iters": 500,
+ "tol": 1e-05,
+ "record_every": 10,
+ "transform": "DCT",
+ "method": "apgd",
+ "rank": 2,
+ "name": "ddcmall_256_191-p0.2-t0-mapgd-TDCT-r2"
+}

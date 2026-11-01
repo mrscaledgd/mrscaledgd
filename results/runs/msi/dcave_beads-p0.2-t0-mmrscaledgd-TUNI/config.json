@@ -1,0 +1,19 @@
+{
+ "campaign": "msi",
+ "kind": "tc",
+ "dataset": "cave:beads",
+ "p": 0.2,
+ "trial": 0,
+ "iters": 500,
+ "tol": 1e-05,
+ "record_every": 10,
+ "transform": "UNI",
+ "method": "scaledgd",
+ "damping": "leak",
+ "c_lam": 1.0,
+ "realloc_every": 20,
+ "realloc_until": 200,
+ "c_floor": 2.0,
+ "rank_equiv": 20,
+ "name": "dcave_beads-p0.2-t0-mmrscaledgd-TUNI"
+}

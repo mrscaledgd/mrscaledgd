@@ -1,0 +1,14 @@
+{
+ "campaign": "timing",
+ "kind": "tc",
+ "dataset": "video:news",
+ "p": 0.2,
+ "trial": 0,
+ "iters": 500,
+ "tol": 1e-05,
+ "record_every": 10,
+ "transform": "DCT",
+ "method": "apgd",
+ "rank": 5,
+ "name": "dvideo_news-mapgd-TDCT-r5"
+}
